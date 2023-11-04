@@ -1,10 +1,5 @@
 HEY IM HAMILTON CHEONG 💜
 
-👀 [![](https://visitcount.itsvg.in/api?id=HamiltonCheong&label=TECHSTARS&color=0&icon=9&pretty=false)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HamiltonCheong&label=TECHSTARS&color=0&icon=9&pretty=false" />
-</a>
 
 💻 Full Stack Experince :
 
