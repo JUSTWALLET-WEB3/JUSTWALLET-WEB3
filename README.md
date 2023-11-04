@@ -1,7 +1,6 @@
 HEY IM HAMILTON CHEONG 💜
 
-👀 <p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c6203d7ecd3cb5930e5ac7ecae4850c833da590c7c6a4a5bc25ab84c2994b70a/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6461756c61746875737361696e2669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=daulathussain&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p> 
-  
+👀 [![](https://visitcount.itsvg.in/api?id=HamiltonCheong&label=TECHSTARS&color=0&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 💻 Full Stack Experince :
 
